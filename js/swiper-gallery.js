@@ -29,7 +29,7 @@ const swiper2 = new Swiper('.swiper2', {
   // And if we need scrollbar
   scrollbar: {
     el: '.swiper-scrollbar .hero_swiper-scrollbar',
-    raggable: true,
+    draggable: true,
             // Snaps slider position to slides when you release Scrollbar
             snapOnRelease: true,
             // Size (Length) of Scrollbar Draggable Element in px
